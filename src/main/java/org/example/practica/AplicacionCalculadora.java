@@ -3,6 +3,10 @@ package org.example.practica;
 import java.util.Scanner;
 
 public class AplicacionCalculadora {
+    /**
+     * Esta es una calculadora que realiza operaciones de suma resta multiplicacion y division
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner datos = new Scanner(System.in);
         while (true) {
